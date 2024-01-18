@@ -1,0 +1,1 @@
+scp D:\Users\Stephen\Documents\GMU\Fall_2023\ENGH_302\Website\index.html srhoade@mason.gmu.edu:~/public_html
